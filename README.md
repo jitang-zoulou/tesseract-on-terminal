@@ -9,7 +9,7 @@ It is composed of 8 cubes. In order to fully demonstrate the motion positions, 1
 
 **😋How to use it**
 If you are a Windows XP or later user, please download and install Xiaoxiongmao C++, then on the GitHub web page of this repository copy the code in tesseract.cpp into Xiaoxiongmao C++ and click the run triangle
-[Download Xiaoxiongmao C++ from this link]([https://wwe.lanzoui.com/b01os0mwd](https://wwe.lanzoui.com/b01os0mwd) 分享码：f0tp
+[Download Xiaoxiongmao C++ from this link]([https://wwe.lanzoui.com/b01os0mwd](https://wwe.lanzoui.com/b01os0mwd)分享码：f0tp
 
 If you are a macOS user or a user of another non-Linux distribution, please figure out how to compile it yourself
 
